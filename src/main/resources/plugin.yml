@@ -1,0 +1,9 @@
+name: Fireworksblocker
+version: '1.0.0'
+main: de.scholle.fireworksblocker.FireworkBlocker
+api-version: '1.18'
+prefix: FireworkBlocker
+load: STARTUP
+authors: [ Mobilestars ]
+description: Description
+website: https://modrinth.com/project/fireworkblocker
